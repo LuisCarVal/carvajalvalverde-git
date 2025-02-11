@@ -1,1 +1,1 @@
-funcionalidad: noción del tipo de tarea
+funcionalidad: noción del tipo de tarea TERMINADA
